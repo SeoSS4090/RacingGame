@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{60BF146B-2F95-A2F9-7784-F9FEB36ABD51}") = "Racing - 복사본", "Assembly-CSharp-firstpass.csproj", "{2680FD29-1A1C-6B66-A3E5-D8558E119D18}"
+EndProject
+Project("{60BF146B-2F95-A2F9-7784-F9FEB36ABD51}") = "Racing - 복사본", "Assembly-CSharp.csproj", "{3EE13827-43ED-8761-A6DB-325CEBFA4F65}"
+EndProject
+Project("{60BF146B-2F95-A2F9-7784-F9FEB36ABD51}") = "Racing - 복사본", "Assembly-CSharp-Editor.csproj", "{EFFE8831-E539-D6E7-D264-DF072AD563A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2680FD29-1A1C-6B66-A3E5-D8558E119D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2680FD29-1A1C-6B66-A3E5-D8558E119D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2680FD29-1A1C-6B66-A3E5-D8558E119D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2680FD29-1A1C-6B66-A3E5-D8558E119D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE13827-43ED-8761-A6DB-325CEBFA4F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE13827-43ED-8761-A6DB-325CEBFA4F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE13827-43ED-8761-A6DB-325CEBFA4F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE13827-43ED-8761-A6DB-325CEBFA4F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFE8831-E539-D6E7-D264-DF072AD563A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFE8831-E539-D6E7-D264-DF072AD563A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFE8831-E539-D6E7-D264-DF072AD563A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFE8831-E539-D6E7-D264-DF072AD563A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
